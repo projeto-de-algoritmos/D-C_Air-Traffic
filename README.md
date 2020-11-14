@@ -9,9 +9,12 @@
 | 17/0033112|Eugênio Sales|
 
 ## Sobre 
-    Dentro de um dataset com latitude e longitude de alguns pontos em cado estado presente no território dos Estados Unidos com tráfego aério constante, o objetivo do presente trabalho é encontrar os pares ordenados das regiões mais próximos em um plano cartesiano. Ou seja, a região mais propícia para ocorrência de algum acidente aério no que tange colisões.
-
+    Dentro de um dataset com latitude e longitude de alguns pontos em cado estado presente no território dos Estados Unidos com tráfego aéreo constante, o objetivo do presente trabalho é encontrar os pares ordenados das regiões mais próximos em um plano cartesiano. Ou seja, a região mais propícia para ocorrência de algum acidente aéreo no que tange colisões.
+    
 ## Screenshots
+
+![Image 1](./images/1.png) ![IMage 2](./images/2.png)
+![Image3](./images/3.png)
 
 ## Depêndênias
 
