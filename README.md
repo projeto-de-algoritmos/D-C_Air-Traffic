@@ -1,45 +1,35 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4<br>
+**Dupla 5**<br>
+**Conteúdo da Disciplina**: Dividir e conquistar - Pares de pontos mais próximos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0138551|Bruno Duarte|
+| 17/0033112|Eugênio Sales|
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+    Dentro de um dataset com latitude e longitude de alguns pontos em cado estado presente no território dos Estados Unidos com tráfego aério constante, o objetivo do presente trabalho é encontrar os pares ordenados das regiões mais próximos em um plano cartesiano. Ou seja, a região mais propícia para ocorrência de algum acidente aério no que tange colisões.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Depêndênias
+
+**Linguagem**: Python (Jupyer Notebook)
+<br>
+
+## Execução
+
+- Abra o arquivo rota_de_colisao_eua.ipynb no próprio github para visualização
+- Ou abra no google colab 
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Caso deseje executar as células
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+> 1 - Execute cada célula no jupyter notebook ou google colab
 
 
 
+## Restrições
+ * O dataset utilizado foi retirado do kaggle e serve para fins didáticos, não refletindo precisamente a realidade.
